@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
     <div>
-        <h1>Calculadora desde Docker</h1>
+        <h1>Calculadora desde Docker v2</h1>
         <form method="post">
             <input type="number" step="any" name="a" placeholder="Primer número" required>
             <input type="number" step="any" name="b" placeholder="Segundo número">
