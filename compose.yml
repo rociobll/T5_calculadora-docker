@@ -1,0 +1,6 @@
+services:
+  php:
+  image: rociobll/calculadora:v1
+  container_name: contenedorMiApp
+  ports:
+    - "8080:80"
